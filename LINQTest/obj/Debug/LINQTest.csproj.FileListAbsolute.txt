@@ -1,0 +1,6 @@
+D:\LearnWCF\zhuxw\Labs\chapter1\ConsoleApplication1\LINQTest\bin\Debug\LINQTest.exe.config
+D:\LearnWCF\zhuxw\Labs\chapter1\ConsoleApplication1\LINQTest\bin\Debug\LINQTest.exe
+D:\LearnWCF\zhuxw\Labs\chapter1\ConsoleApplication1\LINQTest\bin\Debug\LINQTest.pdb
+D:\LearnWCF\zhuxw\Labs\chapter1\ConsoleApplication1\LINQTest\obj\Debug\LINQTest.exe
+D:\LearnWCF\zhuxw\Labs\chapter1\ConsoleApplication1\LINQTest\obj\Debug\LINQTest.pdb
+D:\LearnWCF\zhuxw\Labs\chapter1\ConsoleApplication1\LINQTest\obj\Debug\LINQTest.csprojResolveAssemblyReference.cache

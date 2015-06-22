@@ -1,0 +1,6 @@
+D:\LearnWCF\zhuxw\Labs\chapter1\ConsoleApplication1\delegateTest\bin\Debug\delegateTest.exe.config
+D:\LearnWCF\zhuxw\Labs\chapter1\ConsoleApplication1\delegateTest\bin\Debug\delegateTest.exe
+D:\LearnWCF\zhuxw\Labs\chapter1\ConsoleApplication1\delegateTest\bin\Debug\delegateTest.pdb
+D:\LearnWCF\zhuxw\Labs\chapter1\ConsoleApplication1\delegateTest\obj\Debug\delegateTest.exe
+D:\LearnWCF\zhuxw\Labs\chapter1\ConsoleApplication1\delegateTest\obj\Debug\delegateTest.pdb
+D:\LearnWCF\zhuxw\Labs\chapter1\ConsoleApplication1\delegateTest\obj\Debug\delegateTest.csprojResolveAssemblyReference.cache

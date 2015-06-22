@@ -1,0 +1,6 @@
+D:\LearnWCF\zhuxw\Labs\chapter1\ConsoleApplication1\UsingAsyncMethods\bin\Debug\UsingAsyncMethods.exe.config
+D:\LearnWCF\zhuxw\Labs\chapter1\ConsoleApplication1\UsingAsyncMethods\bin\Debug\UsingAsyncMethods.exe
+D:\LearnWCF\zhuxw\Labs\chapter1\ConsoleApplication1\UsingAsyncMethods\bin\Debug\UsingAsyncMethods.pdb
+D:\LearnWCF\zhuxw\Labs\chapter1\ConsoleApplication1\UsingAsyncMethods\obj\Debug\UsingAsyncMethods.exe
+D:\LearnWCF\zhuxw\Labs\chapter1\ConsoleApplication1\UsingAsyncMethods\obj\Debug\UsingAsyncMethods.pdb
+D:\LearnWCF\zhuxw\Labs\chapter1\ConsoleApplication1\UsingAsyncMethods\obj\Debug\UsingAsyncMethods.csprojResolveAssemblyReference.cache

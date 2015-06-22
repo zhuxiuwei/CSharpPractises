@@ -1,0 +1,6 @@
+D:\LearnWCF\zhuxw\Labs\chapter1\ConsoleApplication1\eventTest\bin\Debug\eventTest.exe.config
+D:\LearnWCF\zhuxw\Labs\chapter1\ConsoleApplication1\eventTest\bin\Debug\eventTest.exe
+D:\LearnWCF\zhuxw\Labs\chapter1\ConsoleApplication1\eventTest\bin\Debug\eventTest.pdb
+D:\LearnWCF\zhuxw\Labs\chapter1\ConsoleApplication1\eventTest\obj\Debug\eventTest.exe
+D:\LearnWCF\zhuxw\Labs\chapter1\ConsoleApplication1\eventTest\obj\Debug\eventTest.pdb
+D:\LearnWCF\zhuxw\Labs\chapter1\ConsoleApplication1\eventTest\obj\Debug\eventTest.csprojResolveAssemblyReference.cache

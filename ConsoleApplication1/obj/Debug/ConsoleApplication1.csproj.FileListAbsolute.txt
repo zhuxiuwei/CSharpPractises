@@ -1,0 +1,6 @@
+D:\LearnWCF\zhuxw\Labs\chapter1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\LearnWCF\zhuxw\Labs\chapter1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\LearnWCF\zhuxw\Labs\chapter1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\LearnWCF\zhuxw\Labs\chapter1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\LearnWCF\zhuxw\Labs\chapter1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\LearnWCF\zhuxw\Labs\chapter1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\LearnWCF\zhuxw\Labs\chapter1\ConsoleApplication1\Task\bin\Debug\Task.exe.config
+D:\LearnWCF\zhuxw\Labs\chapter1\ConsoleApplication1\Task\bin\Debug\Task.exe
+D:\LearnWCF\zhuxw\Labs\chapter1\ConsoleApplication1\Task\bin\Debug\Task.pdb
+D:\LearnWCF\zhuxw\Labs\chapter1\ConsoleApplication1\Task\obj\Debug\Task.exe
+D:\LearnWCF\zhuxw\Labs\chapter1\ConsoleApplication1\Task\obj\Debug\Task.pdb
