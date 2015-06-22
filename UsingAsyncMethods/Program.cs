@@ -221,7 +221,14 @@ namespace UsingAsyncMethods
             //TaskReturnValue.callCalValAsync(10);
 
             //Lock Test zxw
-            new LockTestZXW().runLockTestZXW();
+            //new LockTestZXW().runLockTestZXW();
+
+            //ManualResetEventSlim MSDN Demo
+            //ManualResetEventSlimMSDN.MRES_SetWaitReset();
+            //ManualResetEventSlimMSDN.MRES_SpinCountWaitHandle();
+
+            //ManualResetEventSlim ProducerConsumer  
+            ManualResetEventSlim_ProducerConsumer.SimpleProducerConsumer();
 
             Console.WriteLine("In Main!");
             Console.ReadKey();

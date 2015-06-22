@@ -41,6 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ManualResetEventSlim_ProducerConsumer.cs" />
+    <Compile Include="ManualResetEventSlimMSDN.cs" />
     <Compile Include="LockTestZXW.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
