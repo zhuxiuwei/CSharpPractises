@@ -13,8 +13,8 @@ class ManualResetEventSlim_ProducerConsumer
 
     public static void SimpleProducerConsumer()
     {
-         Task.Run(() => produce());
-         Task.Run(() => consume());
+        Task.Run(() => consume());
+        Task.Run(() => produce());
     }
 
     private static void produce()
@@ -22,14 +22,16 @@ class ManualResetEventSlim_ProducerConsumer
         while (currentCount < maxCount)
         {
 
-            while (resource.Count > 0)
+            while (resource.Count > 0)  //No need to produce. Waiting for consumer to consume.
             {
                 producerMRE.Wait();
                 consumerMRE.Set();
             }
 
+            //produce
             Console.WriteLine("Producer produce " + ++currentCount);
             resource.Add(currentCount);
+            
             producerMRE.Reset();
             consumerMRE.Set();
         }
@@ -40,14 +42,16 @@ class ManualResetEventSlim_ProducerConsumer
     {
         while (currentCount <= maxCount)
         {
-            while (resource.Count == 0)
+            while (resource.Count == 0) //No resource to consume. Wait for producer to produce.
             {
                 consumerMRE.Wait();
                 producerMRE.Set();
             }
 
+            //consume
             Console.WriteLine("Consumer consume " + resource[0]);
             resource.Clear();
+            
             consumerMRE.Reset();
             producerMRE.Set();
         }
