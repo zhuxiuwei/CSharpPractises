@@ -52,7 +52,7 @@ class ManualResetEventSlim_ProducerConsumer
             Console.WriteLine("Consumer consume " + resource[0]);
             resource.Clear();
             
-            consumerMRE.Reset();
+consumerMRE.Reset();
             producerMRE.Set();
         }
     }
