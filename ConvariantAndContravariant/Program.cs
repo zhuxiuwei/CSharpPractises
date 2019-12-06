@@ -16,11 +16,13 @@ namespace ConvariantAndContravariant
     {
         static void Main(string[] args)
         {
+            //协变
             IConvariantInterface<Father> conFather = null;
             IConvariantInterface<Son> conSon = null;
             conFather = conSon;
             //conSon = conFather;  //compile error
 
+            //逆变
             IContravariantInterface<Father> contraFather = null;
             IContravariantInterface<Son> contraSon = null;
             //contraFather = contraSon;  //compile error: Cannot implicitly convert type 'ConvariantAndContravariant.IContravariantInterface<ConvariantAndContravariant.Son>' to 'ConvariantAndContravariant.IContravariantInterface<ConvariantAndContravariant.Father>'. An explicit conversion exists (are you missing a cast?)
